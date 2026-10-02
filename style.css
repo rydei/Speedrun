@@ -1,0 +1,58 @@
+body {
+    background-color:blueviolet;
+    font-family : monospace;
+}
+
+#heading{
+    padding:10px;
+    font-size: 4rem;
+    background-color: rgba(56, 4, 60, 0.175);
+    backdrop-filter: blur(8px);
+    border-radius:20px;
+}
+
+#about{
+    margin-top:5px;
+padding:5px;
+    width:fit-content;
+    position:static;
+    font-size:3rem;
+    margin-left:40%;
+    border: 10px solid rgba(235, 177, 223, 0.371);
+    border-radius: 20px;
+}
+#me{
+    margin-top:5px;
+    padding:5px;
+    width:fit-content;
+    position:static;
+    font-size:1rem;
+    border: 10px solid rgba(235, 177, 223, 0.371);
+    border-radius: 20px;
+}
+.image{
+    width:40%;
+    border-radius: 20px;
+}
+
+.images{
+    width:58%;
+    border-radius: 20px;
+}
+
+#sneak{
+    color:rgb(255, 0, 217);
+   text-decoration: underline dashed rgb(255, 0, 217) 2px;
+}
+
+.divider{
+    border:none;
+    border-top:3px dashed black;
+    width:80%;
+    margin:40px auto;
+}
+
+#last{
+    padding:20x;
+    font-size: 0.8rem;
+}
