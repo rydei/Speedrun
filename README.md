@@ -4,11 +4,11 @@
 ## The website features:-
 1)Title
 
-2)About Me
+2)About Me(section)
 
-3)About Me Section
+3)Games i like(section)
 
-4)Images
+4)This month's music(section)
 
 5)A thank you note
 
