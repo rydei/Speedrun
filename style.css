@@ -40,6 +40,21 @@ box-shadow: 0 0 20px 5px rgba(255, 34, 211, 0.578)
     
 }
 
+#me2{
+    display:flex;
+    flex-direction:row;
+    margin-top:5px;
+    padding:5px;
+    width:fit-content;
+    position:static;
+    font-size:1rem;
+    border: 10px solid rgba(235, 177, 223, 0.371);
+    border-radius: 20px;
+    
+}
+#me2:hover{
+box-shadow: 0 0 20px 5px rgba(255, 34, 211, 0.578)
+}
 #me:hover{
 box-shadow: 0 0 20px 5px rgba(255, 34, 211, 0.578)
 }
@@ -52,7 +67,16 @@ box-shadow: 0 0 20px 5px rgba(255, 34, 211, 0.578)
     width:58%;
     border-radius: 20px;
 }
+.games{
+    width:40%;
+    border-radius: 20px;
+    margin:10px;
+}
 
+.games:hover {
+    width: 41%;
+    box-shadow: 0 0 5px 5px rgb(82, 23, 88)
+}
 #sneak{
     color:rgb(255, 0, 217);
    text-decoration: underline dashed rgb(255, 0, 217) 2px;
@@ -69,4 +93,15 @@ box-shadow: 0 0 20px 5px rgba(255, 34, 211, 0.578)
     padding:20x;
     font-size: 0.8rem;
     box-shadow: 0 0 20px 2px rgba(55, 40, 52, 0.578)
+}
+
+.music{
+    width:40%;
+    border-radius: 20px;
+    margin:10px;
+}
+
+.music:hover {
+    width: 41%;
+    box-shadow: 0 0 5px 5px rgb(82, 23, 88)
 }
