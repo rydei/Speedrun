@@ -17,13 +17,13 @@
 ---
 ## Website structure:-
 
-### Html-
+### HTML-
 
 1) The main page is divided into three parts- about me w/images , games i like and this month's music!.
 2) each of these elements have separate ids/classes and separate div block for css.
 3) used iframes to embed the music.
 
-### Css-
+### CSS-
 It was used to give a definite width and height(which is responsive to some extent), background color, font styles ,padding,margin(to center align) and hover effects to make the website more appealing!
 
 ---
